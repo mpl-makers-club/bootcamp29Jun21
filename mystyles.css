@@ -1,0 +1,12 @@
+#maindiv {
+	margin:auto;
+	background-color:darkblue;
+	color:white;
+	border-radius:20px;
+	border:2px solid black;
+	font-family:Verdana;
+	font-size:26px;
+	text-align:center;
+	padding:20px;
+	width:50%;
+}
